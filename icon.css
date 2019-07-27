@@ -1,11 +1,13 @@
 @charset "UTF-8";
 #all {
+    background-color: #E16E70;
+    position: relative;
+    width: 102%;
+    height: 100%;
     margin-top: -10px;
     margin-left: -10px;
     margin-right: -10px;
-    margin-bottom: -10px;
-    background-color: #E16E70;
-    position: relative;
+    margin-bottom: 0px;
 }
 #all #heading {
     margin: auto;
